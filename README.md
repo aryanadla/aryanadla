@@ -1,31 +1,75 @@
-![logo](https://github.com/aryanadla/aryanadla/blob/main/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Adla Aryan</h1>
-<h3 align="center">A passionate Open Source Contributor/ Developer</h3>
+<!-- Header banner (animated SVG) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Hi%20there%20👋%20I’m%20Adla%20Aryan&fontSize=40)
 
-<img align="right" alt="Developer" width="400" src="https://media.tenor.com/kyeNs4DnuW0AAAAM/dev_animado.gif">
+`Cloud Engineer  |  Backend Dev  |  AI-Ops Enthusiast`
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanadla" alt="aryanadla" /></a> </p>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RohanSai22)
 
-- 📫 How to reach me *aryanadla446@gmail.com*
+---
 
-<h3 align="left">Connect with me:</h3>
+## 👨‍💻 About Me
+
+I'm a passionate engineer working at the intersection of **AI, Cloud DevOps, and Web3**, with a strong focus on **AI-Ops and infrastructure automation**. As a **Google Cloud Certified Associate Cloud Engineer** and **Microsoft Certified Azure AI Engineer Associate**, I specialize in building intelligent, scalable systems that bridge **machine learning, cloud orchestration, and full-stack engineering**.
+
+My work spans from automating AKS provisioning with real-time monitoring to developing AI-powered workflows using OpenRouter, LLMs, and Terraform. I enjoy solving real-world problems with modern AI pipelines, predictive analytics, and cloud-native tools across **Azure, GCP, and hybrid environments**.
+
+
+---
+
+## 🚀 What I have Built 
+
+| Project | TL;DR |
+|--------|--------|
+| **[AKS Provisioning and Monitoring of Cloud Resources](https://github.com/aryanadla/AI-Driven-Workspace-Provisioning-for-IaaS-Compute-and-AKS.git)** | Built an AI-DevSecOps pipeline for Azure Cloud provisioning 
+| **[SmartInbox](https://github.com/aryanadla/SmartInbox-Scheduler.git)** | Built AI-Integrated email assistant with auto-scheduler |
+| **[Shortify](https://github.com/aryanadla/Shortify-Scalable_URL_Shortening_Service.git)** | Developed Robust, secure, scalable URL shortener backend service |
+
+---
+
+## 🛠 Tech Toolbox  
+
 <p align="left">
-<a href="https://linkedin.com/in/adla-aryan-aa4049216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adla-aryan-aa4049216/" height="30" width="40" /></a> </p>
+  <img src="https://skillicons.dev/icons?i=gcp,aws,azure,typescript,nodejs,python,java,kubernetes,linux,postgresql,git,vercel,koa" />
+</p>
 
-<h3 align="left">Holopin Badges:</h3>
+---
+
+## 📊 GitHub Stats  
+
 <p align="left">
-<img src="https://assets.holopin.io/hf2024levels/level0-sloth-terminal-0-0-0-0.webp" alt="holopin-badge-1" width="150" height="150"/>
-<img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="holopin-badge-2" width="150" height="150"/>
-<img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbTF6ZWx0aDQ3MDI1MGNqeGQ3em1hbWswIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="holopin-badge-2" width="150" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanadla&theme=radical&show_icons=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanadla&layout=compact&theme=radical" height="150" />
+</p>
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryanadla&theme=radical)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=aryanadla&theme=onedark&margin-w=5)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryanadla&theme=rogue&area=true&hide_border=true)
+
+---
+
+## 📌 Featured Repos  
+
+[![AI-Driven IaaS Provisioning](https://github-readme-stats.vercel.app/api/pin/?username=aryanadla&repo=AI-Driven-Workspace-Provisioning-for-IaaS-Compute-and-AKS&theme=radical)](https://github.com/aryanadla/AI-Driven-Workspace-Provisioning-for-IaaS-Compute-and-AKS)
+
+[![SmartInbox Scheduler](https://github-readme-stats.vercel.app/api/pin/?username=aryanadla&repo=SmartInbox-Scheduler&theme=radical)](https://github.com/aryanadla/SmartInbox-Scheduler)
 
 
+---
 
+## 🏆 Notable Achievements
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- 🥇 **Best Research Paper** at IEEE Hyderabad for *VMatter*, an AI-IoT patient monitoring system using BioBERT + ESP32  
+- 🧠 **NTSE Scholar** – Ranked among top 500 in India  
+- 📈 **Top 10 Finalist**, *Centific Hackathon 2024*: Built AI-based Azure provisioning and monitoring system  
+- 🧮 **INMO Qualified**, Indian National Mathematical Olympiad  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanadla&show_icons=true&locale=en&layout=compact" alt="aryanadla" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanadla&show_icons=true&locale=en" alt="aryanadla" /></p>
+## 📫 Let’s Connect  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanadla&" alt="aryanadla" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adla-aryan-aa4049216/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanadla446@gmail.com)
+
+---
