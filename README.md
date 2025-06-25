@@ -3,7 +3,7 @@
 
 `Cloud Engineer  |  Backend Dev  |  AI-Ops Enthusiast`
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RohanSai22)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aryanadla)
 
 ---
 
@@ -29,7 +29,7 @@ My work spans from automating AKS provisioning with real-time monitoring to deve
 ## 🛠 Tech Toolbox  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,aws,azure,typescript,nodejs,python,java,kubernetes,linux,postgresql,git,vercel,koa" />
+  <img src="https://skillicons.dev/icons?i=gcp,aws,azure,typescript,nodejs,python,java,kubernetes,linux,mysql,postgresql,git,vercel,koa" />
 </p>
 
 ---
